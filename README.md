@@ -1,3 +1,4 @@
-# auladevweb1
+#Aula Desenvolvimento Web 1
 Projeto inicial para a aula de Desenvolvimento Web
-#teste
+
+Intodução ao HMTL e VS CODE 
